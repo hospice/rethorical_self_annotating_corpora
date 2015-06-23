@@ -16,4 +16,4 @@
 	-ConclusiononesentenceWithTense.csv					-------->       File containing Conclusion sentences, followed by two features denoting the presence of Present tense or Past tense respectively in the sentence 
 	
 	
-	-MRCdataWithTense                                   -------->        Method, Result and Conclusion sentences 
+	-MRCdataWithTense                                   -------->        Method, Result and Conclusion sentences with git push origin master
